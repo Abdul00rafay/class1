@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple HTML Example</title>
+</head>
+<body>
+    <h1>SMIT!</h1>
+    <p>abdul rafay.</p>
+    <img src="image.jpg" alt="An image">
+    <a href="https://www.saylaniwelfare.com/en"></a>
+</body>
+</html>
